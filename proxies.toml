@@ -1,0 +1,9 @@
+[[proxy]]
+localport = "8080"
+remotehost = "192.168.0.134"
+remoteport = "80"
+
+[[proxy]]
+localport = "8081"
+remotehost = "google.com"
+remoteport = "80"
